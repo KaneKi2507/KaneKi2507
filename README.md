@@ -55,28 +55,69 @@
 <a href="https://discord.com/users/646356240577855498" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">1) Programming Languages </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/> </a>
-</p>
-<h3 align="left">2) Frontend Development </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/> </a> 
-</p>
-<h3 align="left">3) Framework </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="50" height="50"/> </a>
-</p>
-<h3 align="left">4) Data Science and AI/ML </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="50" height="50"/> </a>
-</p> 
-<h3 align="left">5) Testing/Web Scraping </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="50" height="50"/> </a> 
-</p>
-<h3 align="left">6) Database </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> </a>
-</p>
-<h3 align="left">7) Software </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/> </a> 
-</p>
-<h3 align="left">8) Devops </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> </a>
-</p>
+<h2 align="left">📊 Stats & Skills</h2>
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">🛠️ Languages and Tools</h3>
+      <table width="100%">
+        <tr>
+          <td valign="top" width="50%">
+            <h4 align="left">👨‍💻 Languages & Frontend</h4>
+            <div align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS"/></a>
+              <br>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/></a>
+            </div>
+          </td>
+          <td valign="top" width="50%">
+            <h4 align="left">📊 Data Science & AI/ML</h4>
+            <div align="left"> <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/></a>
+              <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+              <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="Numpy"/></a>
+              <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Seaborn"/></a>
+              <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40" alt="Scikit_Learn"/></a>
+              <br>
+              <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/></a>
+              <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="Tensorflow"/></a>
+              <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="Pytorch"/></a>
+              <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="HuggingFace"/></a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <h4 align="left">☁️ Database & DevOps</h4>
+            <div align="left"> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></a>
+              <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
+              <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP"/></a>
+              <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
+            </div>
+          </td>
+          <td valign="top">
+            <h4 align="left">🛠️ Software & Testing</h4>
+            <div align="left"> <a href="https://www.selenium.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium"/></a>
+              <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" alt="Photoshop"/></a>
+              <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" width="40" height="40" alt="Matlab"/></a>
+              <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" valign="top">
+      <h3 align="center">📈 GitHub Stats</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KaneKi2507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="KaneKi2507's GitHub Stats" width="100%" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneKi2507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
