@@ -2,7 +2,11 @@
 
 ### Just a normal CSE Student :')
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaneKi2507&label=Profile views&color=0e75b6&style=flat" alt="KaneKi2507" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph.svg">
+</picture>
 
 - 🔭 I'm currently working on **An Image Compressor**
 
