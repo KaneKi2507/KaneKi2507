@@ -1,24 +1,50 @@
 # Hi 👋, I'm Ayush Kumar Thakur
 
 ### Just a normal CSE Student :')
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/output/pacman-contribution-graph.svg">
 </picture>
 
-- 🔭 I'm currently working on **An Image Compressor**
+<br>
 
-- 🌱 I'm currently learning **Web Scraping and Flask**
-
-- 🤝 I'm looking for help with **Web scraping and Web Development**
-
-- 💬 Ask me about **Web Scraping, Auto GUI, basic Python and C++**
-
-- 📫 How to reach me **ayushkumar2507thakur@gmail.com**
-
-- ⚡ Fun fact **My personality depends on the movie i recently watched XD**
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <table>
+        <tr>
+          <td width="15%">🪥</td>
+          <td>🔭 <b>I'm currently working on:</b>  An Image Compressor</td>
+        </tr>
+        <tr>
+          <td width="15%">🛁</td>
+          <td>🌱 <b>I'm currently learning:</b>  Web Scraping and Flask</td>
+        </tr>
+        <tr>
+          <td width="15%">🍽️</td>
+          <td>🤝 <b>I'm looking for help with:</b>  Web scraping and Web Development</td>
+        </tr>
+        <tr>
+          <td width="15%">👨‍💻</td>
+          <td>💬 <b>Ask me about:</b>  Web Scraping, Auto GUI, basic Python and C++</td>
+        </tr>
+        <tr>
+          <td width="15%">🏸</td>
+          <td>📫 <b>How to reach me:</b>  ayushkumar2507thakur@gmail.com</td>
+        </tr>
+        <tr>
+          <td width="15%">😴</td>
+          <td>⚡<b>Fun fact:</b>  My personality depends on the movie i recently watched 😶‍🌫️🫠</td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" valign="center">
+      <img src="coding.gif" align="center" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
