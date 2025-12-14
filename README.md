@@ -41,11 +41,10 @@
       </table>
     </td>
     <td width="40%" valign="center">
-      <img src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" align="center" style="width: 100%" />
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="center" style="width: 100%" />
     </td>
   </tr>
 </table>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://github.com/KaneKi2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaneKi2507" height="40" width="50" /></a>
