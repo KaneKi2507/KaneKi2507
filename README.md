@@ -41,7 +41,7 @@
       </table>
     </td>
     <td width="40%" valign="center">
-      <img src="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/main/coding.gif" align="center" style="width: 100%" />
+      <img src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" align="center" style="width: 100%" />
     </td>
   </tr>
 </table>
