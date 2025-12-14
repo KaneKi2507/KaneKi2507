@@ -16,32 +16,32 @@
       <table>
         <tr>
           <td width="15%">🪥</td>
-          <td>🔭 <b>I'm currently working on:</b>  An Image Compressor</td>
+          <td>🔭 I'm currently working on <b>An Image Compressor</b></td>
         </tr>
         <tr>
           <td width="15%">🛁</td>
-          <td>🌱 <b>I'm currently learning:</b>  Web Scraping and Flask</td>
+          <td>🌱 I'm currently learning <b>Web Scraping and Flask</b></td>
         </tr>
         <tr>
           <td width="15%">🍽️</td>
-          <td>🤝 <b>I'm looking for help with:</b>  Web scraping and Web Development</td>
+          <td>🤝 I'm looking for help with <b>Web scraping and Web Development</b></td>
         </tr>
         <tr>
           <td width="15%">👨‍💻</td>
-          <td>💬 <b>Ask me about:</b>  Web Scraping, Auto GUI, basic Python and C++</td>
+          <td>💬 Ask me about <b>Web Scraping, Auto GUI, basic Python and C++</b></td>
         </tr>
         <tr>
           <td width="15%">🏸</td>
-          <td>📫 <b>How to reach me:</b>  ayushkumar2507thakur@gmail.com</td>
+          <td>📫 How to reach me <b>ayushkumar2507thakur@gmail.com</b></td>
         </tr>
         <tr>
           <td width="15%">😴</td>
-          <td>⚡<b>Fun fact:</b>  My personality depends on the movie i recently watched 😶‍🌫️🫠</td>
+          <td>⚡ Fun fact <b>My personality depends on the movie i recently watched XD</b></td>
         </tr>
       </table>
     </td>
     <td width="40%" valign="center">
-      <img src="coding.gif" align="center" style="width: 100%" />
+      <img src="https://raw.githubusercontent.com/KaneKi2507/KaneKi2507/main/coding.gif" align="center" style="width: 100%" />
     </td>
   </tr>
 </table>
