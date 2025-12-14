@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/KaneKi2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaneKi2507" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-thakur-ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Kumar Thakur, ayush2507" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-kumar-thakur-ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Kumar Thakur, ayush2507" height="70" width="80" /></a>
 <a href="https://hackerrank.com/ayushkumar2507t1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkumar2507t1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ayush2507" height="30" width="40" /></a>
 <a href="https://leetcode.com/MainlyAyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MainlyAyush" height="30" width="40" /></a>
