@@ -45,7 +45,7 @@
     </td>
   </tr>
 </table>
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me</h2>
 <p align="left">
 <a href="https://github.com/KaneKi2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaneKi2507" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/ayush-kumar-thakur-ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Kumar Thakur, ayush2507" height="40" width="50" /></a>
