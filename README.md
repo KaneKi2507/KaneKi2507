@@ -46,12 +46,13 @@
   </tr>
 </table>
 <h2 align="left">Connect with me:</h2>
-<p align="left"><a href="https://discord.com/users/646356240577855498" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
+<p align="left">
 <a href="https://github.com/KaneKi2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaneKi2507" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/ayush-kumar-thakur-ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Kumar Thakur, ayush2507" height="40" width="50" /></a>
 <a href="https://hackerrank.com/ayushkumar2507t1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkumar2507t1" height="40" width="50" /></a>
 <a href="https://codeforces.com/profile/Ayush2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ayush2507" height="40" width="50" /></a>
 <a href="https://leetcode.com/MainlyAyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MainlyAyush" height="40" width="50" /></a>
+<a href="https://discord.com/users/646356240577855498" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
