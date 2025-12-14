@@ -36,7 +36,7 @@
         </tr>
         <tr>
           <td width="15%">😴</td>
-          <td>⚡ Fun fact <b>My personality depends on the movie i recently watched XD</b></td>
+          <td>⚡ Fun fact <b>My personality depends on the movie i recently watched 😶‍🌫️🫠</b></td>
         </tr>
       </table>
     </td>
