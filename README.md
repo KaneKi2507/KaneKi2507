@@ -16,27 +16,27 @@
       <table>
         <tr>
           <td width="15%">🪥</td>
-          <td>🔭 I'm currently working on <b>An Image Compressor</b></td>
+          <td>🔭 I'm currently working on: <b>An Image Compressor</b></td>
         </tr>
         <tr>
           <td width="15%">🛁</td>
-          <td>🌱 I'm currently learning <b>Web Scraping and Flask</b></td>
+          <td>🌱 I'm currently learning: <b>Web Scraping and Flask</b></td>
         </tr>
         <tr>
           <td width="15%">🍽️</td>
-          <td>🤝 I'm looking for help with <b>Web scraping and Web Development</b></td>
+          <td>🤝 I'm looking for help with: <b>Web scraping and Web Development</b></td>
         </tr>
         <tr>
           <td width="15%">👨‍💻</td>
-          <td>💬 Ask me about <b>Web Scraping, Auto GUI, basic Python and C++</b></td>
+          <td>💬 Ask me about: <b>Web Scraping, Auto GUI, basic Python and C++</b></td>
         </tr>
         <tr>
           <td width="15%">🏸</td>
-          <td>📫 How to reach me <b>ayushkumar2507thakur@gmail.com</b></td>
+          <td>📫 How to reach me: <b>ayushkumar2507thakur@gmail.com</b></td>
         </tr>
         <tr>
           <td width="15%">😴</td>
-          <td>⚡ Fun fact <b>My personality depends on the movie i recently watched 😶‍🌫️🫠</b></td>
+          <td>⚡ Fun fact: <b>My personality depends on the movie I recently watched 😶‍🌫️🫠</b></td>
         </tr>
       </table>
     </td>
