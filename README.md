@@ -114,10 +114,10 @@
     <td width="40%" valign="top">
       <h3 align="center">📈 GitHub Stats</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KaneKi2507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="KaneKi2507's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KaneKi2507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="KaneKi2507's GitHub Stats" width="100%" />
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneKi2507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
-      </div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneKi2507&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="100%" />
+        </div>
     </td>
   </tr>
 </table>
