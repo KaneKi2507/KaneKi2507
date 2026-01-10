@@ -16,15 +16,15 @@
       <table>
         <tr>
           <td width="15%">🪥</td>
-          <td>🔭 I'm currently working on: <b>An Image Compressor</b></td>
+          <td>🔭 I'm currently working on: <b>Network Traffic Visualizer</b></td>
         </tr>
         <tr>
           <td width="15%">🛁</td>
-          <td>🌱 I'm currently learning: <b>Web Scraping and Flask</b></td>
+          <td>🌱 I'm currently learning: <b>Web Scraping and kivy</b></td>
         </tr>
         <tr>
           <td width="15%">🍽️</td>
-          <td>🤝 I'm looking for help with: <b>Web scraping and Web Development</b></td>
+          <td>🤝 I'm looking for help with: <b>Web scraping and project ideas</b></td>
         </tr>
         <tr>
           <td width="15%">👨‍💻</td>
